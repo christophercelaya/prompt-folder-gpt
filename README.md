@@ -53,7 +53,8 @@ Host your own live version of Chatbot UI with Vercel.
 
 **Replit**
 
-TODO: Fork Chatbot UI on Replit [here](https://replit.com/@ImMrChris/ 
+TODO: Fork Chatbot UI on Replit [here](https://replit.com/@ImMrChris/).
+
 **Docker**
 
 Build locally:
