@@ -1,14 +1,8 @@
 # Chatbot UI
 
-Chatbot UI is an advanced chatbot kit for OpenAI's chat models built on top of [Chatbot UI Lite](https://github.com/mckaywrigley/chatbot-ui-lite) using Next.js, TypeScript, and Tailwind CSS.
-
-See a [demo](https://twitter.com/mckaywrigley/status/1640380021423603713?s=46&t=AowqkodyK6B4JccSOxSPew).
-
-![Chatbot UI](./public/screenshot.png)
-
 ## Updates
 
-Chatbot UI will be updated over time.
+Efforts will be made for updating over time.
 
 Expect frequent improvements.
 
@@ -17,6 +11,10 @@ Expect frequent improvements.
 - [ ] Delete messages
 - [ ] More model settings
 - [ ] Plugins
+- [ ] More prompt templates
+- [ ] More system prompts
+- [ ] SSO login
+- [ ] TTS Elevenlabs integration
 
 **Recent updates:**
 
@@ -45,7 +43,7 @@ Modify the sidebar interface in `components/Sidebar`.
 
 Modify the system prompt in `utils/index.ts`.
 
-## Deploy
+## Deployment (Vercel, Replic, Docker)
 
 **Vercel**
 
@@ -55,8 +53,7 @@ Host your own live version of Chatbot UI with Vercel.
 
 **Replit**
 
-Fork Chatbot UI on Replit [here](https://replit.com/@MckayWrigley/chatbot-ui-pro?v=1).
-
+TODO: Fork Chatbot UI on Replit [here](https://replit.com/@ImMrChris/ 
 **Docker**
 
 Build locally:
@@ -104,7 +101,7 @@ OPENAI_API_KEY=YOUR_KEY
 npm run dev
 ```
 
-**5. Use It**
+**5. Using the application**
 
 You should be able to start chatting.
 
@@ -122,9 +119,3 @@ When deploying the application, the following environment variables can be set:
 
 If you do not provide an OpenAI API key with `OPENAI_API_KEY`, users will have to provide their own key.
 If you don't have an OpenAI API key, you can get one [here](https://platform.openai.com/account/api-keys).
-
-## Contact
-
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
-
-[GCSE]: https://developers.google.com/custom-search/v1/overview
