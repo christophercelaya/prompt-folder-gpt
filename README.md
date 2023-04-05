@@ -1,4 +1,4 @@
-# Chatbot UI
+# Chatbot
 
 ## Updates
 
@@ -47,13 +47,13 @@ Modify the system prompt in `utils/index.ts`.
 
 **Vercel**
 
-Host your own live version of Chatbot UI with Vercel.
+Host your own live version of Chatbot with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmckaywrigley%2Fchatbot-ui)
 
 **Replit**
 
-TODO: Fork Chatbot UI on Replit [here](https://replit.com/@ImMrChris/).
+TODO: Fork Chatbot on Replit [here](https://replit.com/@ImMrChris/).
 
 **Docker**
 
